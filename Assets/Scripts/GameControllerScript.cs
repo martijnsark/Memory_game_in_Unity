@@ -5,11 +5,11 @@ using UnityEngine.SceneManagement;
 
 public class GameControllerScript : MonoBehaviour
 {
-    public const int columns = 4;
-    public const int rows = 2;
+    public const int columns = 6;
+    public const int rows = 3;
 
     public const float Xspace = 3f;
-    public const float Yspace = -4f;
+    public const float Yspace = -3f;
 
     [SerializeField] private MainImageScript startObject;
     [SerializeField] private Sprite[] images;
@@ -29,7 +29,7 @@ public class GameControllerScript : MonoBehaviour
 
     private void Start()
     {
-        int[] locations = { 0, 0, 1, 1, 2, 2, 3, 3, 4, 4 };
+        int[] locations = { 0, 0, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7, 8, 8 };
         locations = Randomiser(locations);
 
         Vector3 startPosition = startObject.transform.position;
