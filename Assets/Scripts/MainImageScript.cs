@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class MainImageScript : MonoBehaviour
 {
+    public AudioSource cardSound;
+
     [SerializeField] private GameObject image_unknown;
     [SerializeField] private GameControllerScript gameController;
 
@@ -13,6 +15,7 @@ public class MainImageScript : MonoBehaviour
         {
             image_unknown.SetActive(false);
             gameController.imageOpened(this);
+            cardSound.Play();
         }
     }
 

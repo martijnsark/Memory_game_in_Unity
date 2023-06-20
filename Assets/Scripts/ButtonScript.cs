@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class ButtonScript : MonoBehaviour
 {
+    public AudioSource buttonSound;
+
     [SerializeField] private GameControllerScript gameController;
     [SerializeField] private string functionOnClick;
 
@@ -19,6 +21,7 @@ public class ButtonScript : MonoBehaviour
 
     public void OnMouseDown()
     {
+        buttonSound.Play();
         transform.localScale = new Vector3(0.3f, 0.3f, 1.0f);
     }
 

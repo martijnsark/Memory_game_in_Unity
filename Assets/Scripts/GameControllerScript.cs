@@ -5,6 +5,9 @@ using UnityEngine.SceneManagement;
 
 public class GameControllerScript : MonoBehaviour
 {
+    public AudioSource PointSound;
+
+
     public const int columns = 6;
     public const int rows = 3;
 
@@ -91,6 +94,7 @@ public class GameControllerScript : MonoBehaviour
     {
         if (firstOpen.spriteId == secondOpen.spriteId) // Compares the two objects
         {
+            PointSound.Play();
             score++; // Add score
             scoreText.text = "Score: " + score;
         }
