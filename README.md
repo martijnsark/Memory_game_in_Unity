@@ -1,9 +1,11 @@
 # Memory_game_in_Unity
 
 
+<br><br><br><br>
 
 
-# Dutch_translation_Memory_game_in_Unity
+
+## Dutch_translation_Memory_game_in_Unity
 
 
 
@@ -102,7 +104,7 @@ Je kan hier de Video bekijken op YouTube maar hij is wel "unlisted": https://www
 
 
 
-# English_translation_Memory_game_in_Unity
+## English_translation_Memory_game_in_Unity
 
 
 ### Terug_naar_het_Nederlands
