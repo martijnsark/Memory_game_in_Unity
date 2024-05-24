@@ -1,9 +1,9 @@
-# Memory-game-in-Unity
+# Memory_game_in_Unity
 
 
 
 
-# Dutch_translation_Memory-game_in_Unity
+# Dutch_translation_Memory_game_in_Unity
 
 
 
@@ -80,3 +80,28 @@ Je kan hier de Video bekijken op YouTube hij is wel "unlisted" https://www.youtu
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# English_translation_Memory_game_in_Unity
+
+
+### Terug_naar_het_Nederlands
+
+Je kan naar boven scrollen of hier klikken [Dutch_translation_TicTacToe_in_Python](#Dutch_translation_TicTacToe_in_Python)
+
+<br><br><br><br><br><br><br><br>
