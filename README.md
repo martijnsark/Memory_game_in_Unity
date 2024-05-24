@@ -69,8 +69,8 @@ Ik laat nu de normale stroom van de Game dus dit zie je als je op "Play" klikt:
 vanaf dit punt kan je een van de twee kiezen beiden leiden tot de zelfde game met een anderen plaatjes thema:
 
 <p>
-  <img width="600" height="400" src="images/Humanversiongameplay1.png" alt="image" style="display: inline-block; margin-right: 10px;">
-  <img width="600" height="400" src="images/Plantversiongameplay1.png" alt="image" style="display: inline-block;">
+  <img width="450" height="270" src="images/Humanversiongameplay1.png" alt="image" style="display: inline-block; margin-right: 10px;">
+  <img width="450" height="270" src="images/Plantversiongameplay1.png" alt="image" style="display: inline-block;">
 </p>
 
 
