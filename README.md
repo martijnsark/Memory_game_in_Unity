@@ -56,20 +56,20 @@ Ik heb later in mijn project een familie lid van iemand met dimensie voor feedba
 
 De game begint met een start scherm start en Quit werken maar Opties was een placeholder voor de toekomst van de game:
 
-<img width="600" height="400" src="Images/startscreen1.png" alt="image">
+<img width="600" height="400" src="images/startscreen1.png" alt="image">
 
 <br><br><br><br>
 
 Ik laat nu de normale stroom van de Game dus dit zie je als je op Play klikt:
 
-<img width="600" height="400" src="Images/startscreen2.png" alt="image">
+<img width="600" height="400" src="images/startscreen2.png" alt="image">
 
 <br><br><br><br>
 
 vanaf dit punt kan je een van de twee kiezen beiden leiden tot de zelfde game met een anderen plaatjes thema:
 
-<img width="600" height="400" src="Images/Humanversiongameplay1.png" alt="image">
-<img width="600" height="400" src="Images/Plantversiongameplay1.png" alt="image">
+<img width="600" height="400" src="images/Humanversiongameplay1.png" alt="image">
+<img width="600" height="400" src="images/Plantversiongameplay1.png" alt="image">
 
 <br><br><br><br>
 
