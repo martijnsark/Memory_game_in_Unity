@@ -15,7 +15,7 @@
 You can either scroll down or click here: [English_Memory_game-in_Unity](#English_translation_Memory_game_in_Unity)
 
 <br><br><br><br><br><br><br><br>
-_
+
 
 
 
@@ -50,6 +50,10 @@ Ik heb later in mijn project een familielid van iemand met dementie om feedback 
 - Maak een tweede thema naast mensen, bijvoorbeeld planten.
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+
+
 
 
 
@@ -135,6 +139,10 @@ Later in my project, I asked a family member of someone with dementia for feedba
 - Create a second theme besides people, such as plants.
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+
+
 
 
 
