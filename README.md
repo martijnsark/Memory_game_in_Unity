@@ -32,7 +32,7 @@ De Offerte die ik bedachte was dat een Ziekenhuis met dimensie patiënten een le
 
 Ik besloot er een Memory game van te maken waar de tijd, het aantal pogingen en het aantal punten per set gevonden werden weergeven, op deze manier kon je visueel zien hoelang het duurde en hoe vaak er een foute keuze was genomen.
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 
@@ -48,7 +48,7 @@ Ik heb later in mijn project een familie lid van iemand met dimensie voor feedba
 - maak de plaatjes groter.
 - maak een tweede thema naast mensen zoals planten.
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 
@@ -76,4 +76,4 @@ vanaf dit punt kan je een van de twee kiezen beiden leiden tot de zelfde game me
 Je kan hier de Video bekijken op YouTube hij is wel "unlisted" https://www.youtube.com/watch?v=jnIM4g-v_jQ
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
