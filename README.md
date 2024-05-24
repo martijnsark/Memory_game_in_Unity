@@ -79,7 +79,7 @@ Vanaf dit punt kan je een van de twee kiezen beiden leiden tot de zelfde game me
 </p>
 
 
-<br
+<br>
 
 Je kan hier de Video bekijken op YouTube maar hij is wel "unlisted": https://www.youtube.com/watch?v=jnIM4g-v_jQ
 
