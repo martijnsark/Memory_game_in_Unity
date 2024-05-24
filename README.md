@@ -12,10 +12,10 @@
 
 ### Where to find English translation
 
-You can either scroll down or click here: [English_Memory_game-in_Unity](#English_translation_Memory-game_in_Unity)
+You can either scroll down or click here: [English_Memory_game-in_Unity](#English_translation_Memory_game_in_Unity)
 
 <br><br><br><br><br><br><br><br>
-
+_
 
 
 
@@ -103,7 +103,7 @@ Je kan hier de Video bekijken op YouTube maar hij is wel "unlisted": https://www
 
 ### Terug_naar_het_Nederlands
 
-Je kan naar boven scrollen of hier klikken [Dutch_translation_Memory-game_in_Unity](#Dutch_translation_Memory-game_in_Unity)
+Je kan naar boven scrollen of hier klikken [Dutch_translation_Memory-game_in_Unity](#Dutch_translation_Memory_game_in_Unity)
 
 <br><br><br><br><br><br><br><br>
 
