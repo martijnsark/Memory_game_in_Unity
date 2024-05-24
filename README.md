@@ -79,12 +79,12 @@ Vanaf dit punt kan je een van de twee kiezen beiden leiden tot de zelfde game me
 </p>
 
 
-<br><br><br><br>
+<br><br>
 
 Je kan hier de Video bekijken op YouTube maar hij is wel "unlisted": https://www.youtube.com/watch?v=jnIM4g-v_jQ
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 
@@ -168,7 +168,7 @@ From this point you can choose either of the two leading to the same game with a
 </p>
 
 
-<br><br><br><br>
+<br><br>
 
 You can watch the Video here on YouTube it is “unlisted” though: https://www.youtube.com/watch?v=jnIM4g-v_jQ
 
