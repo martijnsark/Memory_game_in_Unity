@@ -54,13 +54,13 @@ Ik heb later in mijn project een familie lid van iemand met dimensie voor feedba
 
 ## De gameplay
 
-De game begint met een start scherm start en Quit werken maar Opties was een placeholder voor de toekomst van de game:
+De game begint met een start scherm "Play" en "Quit" werken maar Opties was een placeholder voor de toekomst van de game:
 
 <img width="600" height="400" src="images/startscreen1.png" alt="image">
 
 <br><br><br><br>
 
-Ik laat nu de normale stroom van de Game dus dit zie je als je op Play klikt:
+Ik laat nu de normale stroom van de Game dus dit zie je als je op "Play" klikt:
 
 <img width="600" height="400" src="images/startscreen2.png" alt="image">
 
